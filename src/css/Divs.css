@@ -1,0 +1,44 @@
+
+
+
+
+.categories{
+    display: flex;
+    gap: 20px;
+    margin-left: 140px;
+    margin-top: 30px;
+    
+   
+   
+}
+.Dv1{
+background-color: rgb(242, 246, 248);
+padding-left: 90px;
+padding-right: 90px;
+padding-top: 20px;
+padding-bottom: 20px;
+
+
+}
+.Dv2{
+    background-color:  rgb(242, 246, 248);
+    padding-left: 90px;
+padding-right: 90px;
+padding-top: 20px;
+padding-bottom: 20px;
+    }
+.Dv3{
+    background-color:  rgb(242, 246, 248);
+    padding-left: 90px;
+padding-right: 90px;
+padding-top: 20px;
+padding-bottom: 20px;
+        }
+
+        .Dv4{
+            background-color:  rgb(242, 246, 248);
+            padding-left: 90px;
+padding-right: 90px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+                    }
